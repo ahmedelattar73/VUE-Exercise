@@ -1,4 +1,6 @@
-# php-exercise-client
+# VUE Js Exercise.
+PHP Exercise based on Laravel framework.  
+**NOTE: This project just for front-end and you must clone and install another back-end project based on Laravel framework [from this repo.](https://github.com/ahmedelattar73/PHP-Exercise)**
 
 ## Project setup
 ```
@@ -13,16 +15,6 @@ npm run serve
 ### Compiles and minifies for production
 ```
 npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Lints and fixes files
-```
-npm run lint
 ```
 
 ### Customize configuration
